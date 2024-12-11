@@ -1,0 +1,2 @@
+gti 명령어
+git status
